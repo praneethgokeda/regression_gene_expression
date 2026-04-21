@@ -23,7 +23,7 @@ regularization techniques.
 
 ### Part A — Linear Regression: g4 = a·g1 + b·g2 + c·g3 + d
 
-    Method                a        b         c        d     | Train MSE | Val MSE |
+|    Method           |     a |       b |        c |       d     | Train MSE | Val MSE |
 |---------------------|--------|--------|--------|---------|-----------|---------|
 | Closed-Form (Normal Eq.) | 1.7719 | 1.1235 | 0.8058 | 10.0141 | 0.02175 | 0.02254 |
 | Gradient Descent (No Reg) | 1.7719 | 1.1235 | 0.8058 | 10.0141 | 0.02175 | 0.02254 |
